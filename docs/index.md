@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Overview
 
-<img src="assets/images/screen-capture.png" align="right" width="50%">
+<img src="https://www.printplaygames.com/wp-content/uploads/2018/04/file1-3-3.jpeg" align="right" width="50%" class="overview-image">
 
 Describe what students will be doing and provide, or expand upon, the assignment outcome.
 
