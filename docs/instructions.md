@@ -5,11 +5,18 @@ layout: tabbed-assignment
 # Instructions
 
 1. Select a group of two or three people to work with.
-1. With your group decide which element you'd like to explore (you can find the elements on the [slides][].
-1. Let me know which element you selected.
-1. Design a poster or presentation that explains your element. Include:
-   - A description of the element in your own words (words that make sense to you).
-   - Examples of the element in a variety of games -- include board games and physical games.
+1. Make your own copy of the [reflection template][template]. Enter:
+   * Your name.
+   * The members of your group.
+1. Make your own copy of Ian Schrieber's article, *Level 3 - Formal Elements of Games* from the resources tab.
+   * Get a shared link to your copy of the article.
+   * Add the link to your reflection document. Be sure to type a space to make it active.
+1. With your group decide which of the elements (blue headings) in the article that you'd like to explore.
+1. Add the name of your element to your reflection.
+1. Design a set of cards in Google Doc that explain the "patterns" for your element. Include:
+   - One card that is a description of the element in your own words (words that make sense to you).
+   - A card for each pattern.
+      - Examples of the pattern in a variety of games -- include board games and physical games.
 
 ## Notes
 
