@@ -11,6 +11,8 @@ Take the list and test it - present across a variety of games?
 
 Which of our elements are really elements?
 
+Can you turn some of the "non-elements" into elements (make them more general?) or find them homes in the other elements?
+
 ## Activity 2
 
 * Dig into Doug Church & Ian Schreiber
@@ -19,6 +21,12 @@ Which of our elements are really elements?
   - Examples
 
 ## Product
+
+Card
+- Describe the element
+- Instructions for creating it
+- Patterns
+  - Counter-patterns
 
 A deck of cards -- either as a game or similar to Brian Eno & Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) card set.
 
