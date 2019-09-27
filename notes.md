@@ -20,6 +20,8 @@ Which of our elements are really elements?
 
 ## Product
 
+A deck of cards -- either as a game or similar to Brian Eno & Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) card set.
+
 Cards for a game building game. (Kind of like Mad Libs).
 Draw an element - roll to pick pattern
 
