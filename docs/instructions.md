@@ -14,7 +14,8 @@ layout: tabbed-assignment
 1. With your group decide which of the elements (blue headings) in the article that you'd like to explore.
 1. Add the name of your element to your reflection.
 1. Design a set of cards in Google Doc (you can use [this template][card-template] to get started) that explain the "patterns" for your element. Include:
-   - One card that is a description of the element in your own words (words that make sense to you).
+   - One card that instructs the user how to use the the element in your own words:
+      - 
    - A card for each pattern.
       - Examples of the pattern in a variety of games -- include board games and physical games.
 1. Decide how you will divide up your group's work on the project. Document your plan in the space in your reflection.
@@ -25,6 +26,7 @@ layout: tabbed-assignment
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
+[article]: <{{site.data.assignment.article}}>
 [card-template]: <{{site.data.assignment.card-template}}>
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
