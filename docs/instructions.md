@@ -8,7 +8,7 @@ layout: tabbed-assignment
 1. Make your own copy of the [reflection template][template]. Enter:
    * Your name.
    * The members of your group.
-1. Make your own copy of Ian Schrieber's article, *Level 3 - Formal Elements of Games* from the resources tab.
+1. Make your own copy of Ian Schrieber's article, *[Level 3 - Formal Elements of Games][article]* from the resources tab.
    * Get a shared link to your copy of the article.
    * Add the link to your reflection document. Be sure to type a space to make it active.
 1. With your group decide which of the elements (blue headings) in the article that you'd like to explore.
