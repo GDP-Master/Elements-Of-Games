@@ -13,7 +13,10 @@ Which of our elements are really elements?
 
 ## Activity 2
 
-Dig into Doug Church & Ian Schreiber
+* Dig into Doug Church & Ian Schreiber
+* Other writers - areas of agreement and new elements
+* Patterns
+  - Examples
 
 ## Product
 
