@@ -14,3 +14,12 @@ Which of our elements are really elements?
 ## Activity 2
 
 Dig into Doug Church & Ian Schreiber
+
+## Product
+
+Cards for a game building game. (Kind of like Mad Libs).
+Draw an element - roll to pick pattern
+
+* Elements
+  - Patterns 
+    - examples
