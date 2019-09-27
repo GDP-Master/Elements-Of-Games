@@ -17,8 +17,11 @@ layout: tabbed-assignment
    - One card that is a description of the element in your own words (words that make sense to you).
    - A card for each pattern.
       - Examples of the pattern in a variety of games -- include board games and physical games.
+1. Decide how you will divide up your group's work on the project. Document your plan in the space in your reflection.
+1. At the end of class, complete the last two sections of the reflection:
+   - What went well in your group today.
+   - What will you do differently to help your group work well next class.
 
-## Notes
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
