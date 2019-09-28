@@ -12,7 +12,7 @@ layout: tabbed-assignment
    * Get a shared link to your copy of the article.
    * Add the link to your reflection document. Be sure to type a space to make it active.
    
-   If you
+   If you need a refresher on working with Google Docs, see the instructions on the Submission tab.
 1. With your group decide which of the elements (blue headings) in the article that you'd like to explore.
 1. Add the name of your element to your reflection.
 1. Design a set of cards in Google Doc (you can use [this template][card-template] to get started) that explain the "patterns" for your element. Include:
