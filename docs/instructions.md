@@ -11,6 +11,7 @@ layout: tabbed-assignment
 1. Make your own copy of Ian Schreiber's article, *[Level 3 - Formal Elements of Games][article]* from the resources tab.
    * Get a shared link to your copy of the article.
    * Add the link to your reflection document. Be sure to type a space to make it active.
+   
    If you
 1. With your group decide which of the elements (blue headings) in the article that you'd like to explore.
 1. Add the name of your element to your reflection.
