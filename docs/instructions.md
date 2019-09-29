@@ -17,7 +17,7 @@ layout: tabbed-assignment
 1. Add the name of your element to your reflection.
 1. Choose **one** of the project options below:
    * Create a tabloid sized (11 x 17) poster using Google Doc explaining how to use your element. You can use the [poster template][poster-template] as a starting point -- the template is in portrait mode, change it it suit your design.
-   * Design a set of cards in Google Doc (you can use [this template][card-template] to get started) that explain the "patterns" for your element. Include:
+   * Design a set of cards in Google Doc (you can use template [card template][card-template] to get started) that explain the "patterns" for your element. Include:
       - One card that instructs the user how to use the the element in your own words:
       - A card for each pattern.
         - Examples of the pattern in a variety of games -- include board games and physical games.
