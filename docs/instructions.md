@@ -25,7 +25,7 @@ layout: tabbed-assignment
 1. After selecting a project:
    * Create the document to hold the project.
    * Share the documeent with the members of your group.
-   * Get as sharing link () to the document and paste it into the link box in your reflection.
+   * Get an "Anyone in SKSD with link can comment" link () to your project and paste it into the link box in your reflection. **Do not share the document directly with me.**
 1. Decide how you will divide up your group's work on the project. Document your plan in the space in your reflection.
 1. **At the end of class,** complete the last two sections of the reflection:
    - What went well in your group today. Be specific and detailed.
