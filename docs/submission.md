@@ -10,7 +10,7 @@ layout: tabbed-assignment
    - Mapping of your elements to the elements described by Ian Schreiber
 1. Move the bookmark in your notes to today's entry.
 
-1. Complete the reflection [template][] -- be sure to include a link to your group's project, and make sure the link is a live, **shared** link. **Do not** share the document directly with me.
+1. Complete the reflection [template][] -- be sure to include a link to your group's project, and make sure the link is a live, **shared** link. **Do not** share the document directly with me, it won't be linked to your reflection and won't be visible when your assignment is graded.
 1. Submit your reflection as usual.
 
 {% include submission-boilerplate.html %}
